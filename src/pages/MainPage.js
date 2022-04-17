@@ -11,7 +11,9 @@ import main_items from '../assets/main-items.jpg'
 import main_parts from '../assets/main-parts.jpg'
 import main_styles from '../assets/main-styles.jpg'
 
-function MainPage(props) {
+function MainPage() {
+
+
 	return (
 		<div className="MainPage -mt-16">
 			<BannerVideo/>
